@@ -1,0 +1,36 @@
+# HR Data Analytics – Presence Insights Dashboard
+
+## 📊 Project Overview
+A data-driven project to analyze employee **Presence Insights** and streamline HR operations using **Power BI** and **Excel**. The goal was to empower the HR team with real-time visibility into working hours, attendance, performance trends, and leave patterns—leading to better decision-making and operational efficiency.
+
+---
+
+## 🛠️ Tools & Technologies
+- **Power BI** – for building interactive dashboards
+- **Microsoft Excel** – for data cleaning and initial exploration
+
+---
+
+## 📌 Key Objectives
+- Analyze **employee presence patterns** (working hours, attendance, leaves)
+- Identify **performance trends** and productivity-impacting behaviors
+- Centralize HR data in a **single dashboard** for easy access
+- Reduce manual HR tracking effort and improve daily efficiency
+
+---
+
+## 🔍 Features of the Dashboard
+- **Attendance Analysis**: Track daily/weekly presence, late logins, and absences
+- **Working Hours Overview**: Monitor total hours logged per employee or department
+- **Leave Tracker**: Visualize leave distribution by type and frequency
+- **Performance Summary**: Correlate presence with team/individual performance
+- **Custom Filters**: Department-wise and time-period-based filtering for focused insights
+
+---
+
+## ⏱️ Outcome
+- Estimated to **save 3–4 hours** of manual HR work daily
+- Enhanced visibility into presence-related trends and outliers
+- Improved data-driven decision-making for HR teams
+
+---
